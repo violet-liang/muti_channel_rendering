@@ -1,0 +1,6 @@
+numpy==2.0.2
+soundfile==0.13.1
+pysofaconventions==0.1.5
+spaudiopy==0.2.0
+scipy==1.13.1
+pyloudnorm==0.1.1
