@@ -48,7 +48,7 @@ def binaural_convolve(audio_714, hrtf_l_list, hrtf_r_list):
 
 
 def main():
-    input_path = "./for_life.wav"
+    input_path = "./test.wav"
     output_path = "./output_binaural.wav"
     sofa_path = "./HRIR_L2702.sofa"
 
